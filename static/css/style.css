@@ -1,5 +1,13 @@
 .jumbotron {
-    background-image: url("../images/banner2.png");
-    background-size: 85% 85%;
-    align-items: center;
+    background-image: url("https://thumbs.dreamstime.com/z/bacteria-macro-8100787.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.panel {
+    box-shadow: 10px 5px 5px black;
+}
+
+body {
+    background-color: rgb(252, 253, 253);
 }
